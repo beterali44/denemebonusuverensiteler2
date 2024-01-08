@@ -11,7 +11,7 @@ Ayrıca, deneme bonusu veren sitelerin listesini paylaşan platformları belirle
 
 ### Gereksinimler:
 - [Python](https://www.python.org/downloads/) (versiyon 3.x)
-- [Deneme bonusu veren siteler] (https://meessays.info/)
+- [Deneme bonusu veren siteler](https://meessays.info/)
 
 ### Kurulum:
 1. Repoyu klonlayın:
